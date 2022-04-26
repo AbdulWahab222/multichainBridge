@@ -1,1 +1,5 @@
 https://community.optimism.io/docs/developers/bridge/standard-bridge/#
+
+https://github.com/ethereum-optimism/optimism/blob/master/packages/contracts/contracts/L2/messaging/L2StandardBridge.sol
+
+https://github.com/ethereum-optimism/optimism/blob/master/packages/contracts/contracts/L1/messaging/L1StandardBridge.sol
